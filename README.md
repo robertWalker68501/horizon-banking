@@ -1,36 +1,81 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Horizon Banking App
 
-## Getting Started
+Horizon is a modern banking platform for everyone. This is the first project in the [Build and Deploy 3 Modern Apps and Get Hired as Full Stack Developer Full 12-Hour Course](https://www.youtube.com/watch?v=DwbwuYYiBTk&t=534s).
 
-First, run the development server:
+## Table of contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+- [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+-
+-
+-
+-
+-
+
+### Screenshot
+
+![](./screenshot.jpg)
+
+### Links
+
+- [Live Site](https://your-solution-url.com)
+- [Github](https://github.com/robertWalker68501/horizon-banking)
+
+## My process
+
+### Built with
+
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- Mobile-first workflow
+- Semantic HTML5 markup
+- [TailwindCSS](https://tailwindcss.com/) - A utility-first CSS framework
+- [Shadcn](https://ui.shadcn.com/) - Beautiful components you can copy and paste into your apps
+- [Chart.js](https://www.chartjs.org/) - Simple JavaScript charting library
+
+### What I learned
+
+```html
+<h1>Some HTML code I'm proud of</h1>
+```
+```css
+.proud-of-this-css {
+  color: papayawhip;
+}
+```
+```js
+const proudOfThisFunc = () => {
+  console.log('ðŸŽ‰')
+}
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Continued development
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Useful resources
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
-## Learn More
+## Author
 
-To learn more about Next.js, take a look at the following resources:
+- Website - [Add your name here](https://www.your-site.com)
+- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- [Github](https://github.com/robertWalker68501)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Acknowledgments
